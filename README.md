@@ -16,5 +16,6 @@
 ![Admin-Create Product](https://github.com/user-attachments/assets/531b9b41-5597-452f-aea8-3cd69dff9bf2)
 # Add category
 ![Admin-Add Category](https://github.com/user-attachments/assets/642948a1-a805-4aea-899d-3348a4dad92e)
+# Admin Dashboard
 ![Screenshot 2024-10-06 at 18-34-44 All Products - Best offers](https://github.com/user-attachments/assets/f3705699-205e-4b58-8279-463aaa201d96)
 
